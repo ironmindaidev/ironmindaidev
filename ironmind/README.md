@@ -186,7 +186,7 @@ npm run test:coverage
 
 1. Fork the project
 2. Create a feature branch
-3. Commit your changes
+3. Commit your changes with message `IronMind V 1.0.1 RELEASE`
 4. Push to the branch
 5. Create a Pull Request
 
