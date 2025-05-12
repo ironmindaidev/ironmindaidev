@@ -198,4 +198,17 @@ MIT License
 
 - **Website**: [www.ironmindai.xyz](https://www.ironmindai.xyz)
 - **Twitter**: [@IronMind_X](https://x.com/IronMind_X)
-- **GitHub**: [ironminddev/IronMind-AI-Agent](https://github.com/ironminddev/IronMind-AI-Agent) 
+- **GitHub**: [ironminddev/IronMind-AI-Agent](https://github.com/ironminddev/IronMind-AI-Agent)
+
+## 🧠 About
+
+IronMind AI Agent is an advanced node monitoring and traffic scheduling system that serves as the intelligent "brain" of the network. Built with cutting-edge technology, it provides real-time monitoring, intelligent traffic distribution, and performance-based node scoring.
+
+For more details, see [About IronMind AI Agent](ironmind/ABOUT.md).
+
+## 🚀 Release
+
+**Current Version:** IronMind V 1.0.1 RELEASE
+
+- Initial public release with core monitoring, traffic management, scoring, and security features.
+- For full release notes, see the repository's Releases section on GitHub. 
