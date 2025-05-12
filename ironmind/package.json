@@ -1,6 +1,6 @@
 {
   "name": "ironmind-ai-agent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "IronMind AI Agent for node monitoring and traffic scheduling",
   "main": "ai-agent/index.js",
   "scripts": {
