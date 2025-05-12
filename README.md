@@ -197,5 +197,5 @@ MIT License
 ## 🤝 Contact & Resources
 
 - **Website**: [www.ironmindai.xyz](https://www.ironmindai.xyz)
-- **Twitter**: [@IronMind_AI](https://twitter.com/IronMind_AI)
+- **Twitter**: [@IronMind_X](https://x.com/IronMind_X)
 - **GitHub**: [ironminddev/IronMind-AI-Agent](https://github.com/ironminddev/IronMind-AI-Agent) 
